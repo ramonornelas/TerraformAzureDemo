@@ -31,7 +31,7 @@ module "core_vm" {
     prefix           = "${var.prefix}"
     rgname           = "${module.core_rg.name}"
     location         = "${var.location}"
-    vmname           = "tfworkstation"
+    vmname           = "workstation"
     vmipaddress      = "10.0.2.100"
     vmsubnet         = "${module.core_network.subnetid}"
     vmadminusername  = "${var.vmadminusername}"
