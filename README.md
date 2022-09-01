@@ -8,3 +8,6 @@ Visual Studio Code
 Azure CLI
 Terraform
 GIT
+
+I have created an article describing how to use the repo here:
+https://www.linkedin.com/pulse/azure-resources-deployed-terraform-from-circleci-pipeline-ornelas
